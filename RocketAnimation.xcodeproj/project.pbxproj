@@ -12,6 +12,7 @@
 		DC27ED652040121900B7FD15 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC27ED632040121900B7FD15 /* Main.storyboard */; };
 		DC27ED672040121900B7FD15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DC27ED662040121900B7FD15 /* Assets.xcassets */; };
 		DC27ED6A2040121900B7FD15 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DC27ED682040121900B7FD15 /* LaunchScreen.storyboard */; };
+		DC27ED72204014E600B7FD15 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = DC27ED71204014E600B7FD15 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DC27ED662040121900B7FD15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DC27ED692040121900B7FD15 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DC27ED6B2040121900B7FD15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DC27ED71204014E600B7FD15 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "hustle-on.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		DC27ED5E2040121900B7FD15 /* RocketAnimation */ = {
 			isa = PBXGroup;
 			children = (
+				DC27ED71204014E600B7FD15 /* hustle-on.wav */,
 				DC27ED5F2040121900B7FD15 /* AppDelegate.swift */,
 				DC27ED612040121900B7FD15 /* ViewController.swift */,
 				DC27ED632040121900B7FD15 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DC27ED72204014E600B7FD15 /* hustle-on.wav in Resources */,
 				DC27ED6A2040121900B7FD15 /* LaunchScreen.storyboard in Resources */,
 				DC27ED672040121900B7FD15 /* Assets.xcassets in Resources */,
 				DC27ED652040121900B7FD15 /* Main.storyboard in Resources */,
